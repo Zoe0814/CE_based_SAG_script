@@ -1,0 +1,18 @@
+Communication flows generated
+task sets and job sets generated
+Result path created
+
+JOB STATISTICS
+==============
+Job ID: 1317076
+Cluster: snellius
+User/Group: srin/srin
+State: RUNNING
+Nodes: 1
+Cores per node: 32
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 5-08:26:40 core-walltime
+Job Wall-clock time: 04:00:50
+Memory Utilized: 0.00 MB (estimated maximum)
+Memory Efficiency: 0.00% of 64.00 GB (64.00 GB/node)
+WARNING: Efficiency statistics may be misleading for RUNNING jobs.
